@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-import java.util.Random;
+// import java.util.Random;
 
 // Create a class game , which allow the user to play "guess the number"
 
